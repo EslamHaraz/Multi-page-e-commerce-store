@@ -1,0 +1,59 @@
+:root {
+  /* Light-Mode */
+  --body-Color: #f9f9f9;
+  --main-Color: #303f5d;
+  --secondary-Color: #ff793f;
+  --authintaction-Color: #5e88ff;
+  --bg-warning-Color: #fef5e5;
+  --bg-danger-Color: #fef0ed;
+  --bg-success-Color: #e6fffa;
+  --bg-primary-Color: #ecf2ff;
+  --primary-Color: #5d87ff;
+  --success-Color: #13deb9;
+  --warning-Color: #ffae1f;
+  --danger-Color: #fa9075;
+  --text-Color: #2a3547;
+  --badge-text-Color: #ffff;
+  --hover-bg-Color: #ef8c61;
+  --hover-link-Color: #b2bbcd42;
+  --hover-font-Color: #303f5dde;
+  --border-Color: #242527;
+  --icon-Color: #4a6ccc;
+  --bg-login-Color: #eef3fd;
+  --toggle-Color: #656565;
+  --modal-text-Color: #2a3547;
+  --main-transition: 0.4s linear;
+  --section-bg-Color: #eaeaea66;
+  --link-active-bg: #2a3447;
+  --menu-bg-Color: #f3f3f3f5;
+  --footer-bg-Color: #303f5d91;
+  --btn-disabled-bg: rgb(223 223 223);
+}
+.small-img {
+  width: 60px;
+}
+.font-Weight-medium {
+  font-weight: 600;
+}
+.text-color {
+  color: var(--text-Color);
+}
+
+li.active {
+  background-color: var(--link-active-bg);
+}
+.table > :not(caption) > * > * button.btn-edit {
+  background-color: var(--bs-primary-bg-subtle);
+  color: var(--primary-Color);
+}
+.modal-text-color {
+  color: var(--modal-text-Color);
+}
+.modal-content {
+  background-color: var(--body-Color);
+  color: var(--text-Color);
+}
+button:disabled {
+  background-color: #ddd !important;
+  color: #b1b1b1 !important;
+}

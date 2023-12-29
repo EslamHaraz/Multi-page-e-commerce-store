@@ -1,0 +1,1210 @@
+{
+  "Users": [
+    {
+      "Name": "Eslam Harraz",
+      "Email": "islamharaz64@gmail.com",
+      "Photo": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg",
+      "Phone": "01274291043",
+      "Address": "المنزله شارع ارض صقر",
+      "SecurityQuestion": "ما هو اسم صديقك المفصل ؟",
+      "Language": "ar",
+      "Answer": "ahmed",
+      "Status": "Good",
+      "Seller": true,
+      "Mode": "dark",
+      "Password": "eslam_2010",
+      "id": 1
+    },
+    {
+      "Name": "Eslam ahmed",
+      "Email": "islamahmed64@gmail.com",
+      "Photo": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm328-366-tong-08_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=6a37204762fdd64612ec2ca289977b5e",
+      "Phone": "01285362718",
+      "Address": "المنزله دقهليه ",
+      "SecurityQuestion": "What is Name Your Best Friend ?",
+      "Language": "ar",
+      "Answer": "ahmed",
+      "Status": "Good",
+      "Seller": true,
+      "Mode": "dark",
+      "Password": "eslam_2010",
+      "id": 2
+    },
+    {
+      "Name": "Eslam Joker",
+      "Email": "islamahmed48@gmail.com",
+      "Photo": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm328-366-tong-08_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=6a37204762fdd64612ec2ca289977b5e",
+      "Phone": "01285362718",
+      "Address": "المنزله دقهليه ارض صقر بجوار مستودع الغاز",
+      "SecurityQuestion": "ما هو اخر رقمين من رقم الهاتف الخاص بك ؟",
+      "Language": "ar",
+      "Answer": "43",
+      "Status": "Block",
+      "Seller": false,
+      "Mode": "light",
+      "Password": "eslam_10",
+      "id": 3
+    }
+  ],
+  "Categories": [
+    {
+      "category": {
+        "NameAr": "كروت شاشه",
+        "NameEn": "Graphic "
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بكروت الشاشه",
+        "DescriptionEn": "This category is for graphics cards"
+      },
+      "Photo": "https://images.anandtech.com/doci/12050/evga%201660ti%20xc%20b_678x452.png",
+      "id": 1
+    },
+    {
+      "category": {
+        "NameAr": "معالجات انتل",
+        "NameEn": "Intel CPU "
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بمعالجات انتل",
+        "DescriptionEn": "This category is for intel CPU"
+      },
+      "Photo": "https://compuscience.com.eg/14980-pdt_771/bundle-cpu-intel-core-i5-13400-20mb-cache-box-lga1700-with-fan-mb-gigabyte-intel-b760m-ds3h-ddr4-rev-10.jpg",
+      "id": 2
+    },
+    {
+      "category": {
+        "NameAr": "معالجات ام دي ",
+        "NameEn": "Amd CPU "
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بمعالجات ام دي ",
+        "DescriptionEn": "This category is for AMD CPU"
+      },
+      "Photo": "https://insider-gaming.com/wp-content/uploads/2022/12/amd-ryzen-cpu.png",
+      "id": 3
+    },
+    {
+      "category": {
+        "NameAr": "هياكل الكمبيوتر",
+        "NameEn": "Cases  "
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بهياكل الكمبيوتر",
+        "DescriptionEn": "This category is for Computer Cases  "
+      },
+      "Photo": "https://cdn.trendhunterstatic.com/thumbs/489/aftershock-pc-case.jpeg?auto=webp",
+      "id": 4
+    },
+    {
+      "category": {
+        "NameAr": "ماوس كمبيوتر",
+        "NameEn": "Mouse Pc"
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بالماوس فقط",
+        "DescriptionEn": "This Category To Mouse Only"
+      },
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGGwKmUaxUEbLBA84oykjdnHq70X2tIc3Eew&usqp=CAU",
+      "id": 5
+    },
+    {
+      "category": {
+        "NameAr": "سماعات بي سي",
+        "NameEn": "HeadPhones PC"
+      },
+      "Description": {
+        "DescriptionAr": "هذه الفئه خاصه بالسماعات ال بي سي",
+        "DescriptionEn": "This Category For PC headphone"
+      },
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN27bhvJG8XYMRP-1QJRBk8luffFsbAPEyTSyDIzluUVBPlP3igypkMRq4GHg8xUu48Ms&usqp=CAU",
+      "id": 6
+    }
+  ],
+  "Employees": [
+    {
+      "Name": "Eslam Haraz",
+      "Email": "islamHaraz@yahoo.com",
+      "Photo": "https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg",
+      "Phone": "201274291043",
+      "Address": "المنزله شارع ارض صقر بجوار مستودع الغاز",
+      "Password": "eslam_2010",
+      "language": "en",
+      "Mode": "dark",
+      "Permission": "superAdmin",
+      "Type": "Male",
+      "SecurityQuestion": "ما هو اخر رقمين من رقم الهاتف الخاص بك ؟",
+      "Answer": "43",
+      "id": 1
+    },
+    {
+      "Name": " Ahmed Mohamed",
+      "Email": "ahmedali@yahoo.com",
+      "Photo": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg",
+      "Phone": "201245676546",
+      "Address": "المنزله ارض صقر  ",
+      "Password": "eslam_2030",
+      "language": "light",
+      "Permission": "ادمن",
+      "Type": "ذكر",
+      "SecurityQuestion": "ما هو اخر رقمين من رقم الهاتف الخاص بك ؟",
+      "Answer": "34",
+      "id": 3
+    }
+  ],
+  "Products": [
+    {
+      "Product": {
+        "NameAr": "جي تي اكس تلاتين تسعين تي اي",
+        "NameEn": "GTX 3090 Ti"
+      },
+      "Description": {
+        "DescriptionAr": "كارت مخصص للالعاب افضل للجرافيك",
+        "DescriptionEn": "The Best Quality From GTX Gaming"
+      },
+      "Quantity": 0,
+      "Photo": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx-3090/geforce-rtx-3090-shop-600-p@2x.png",
+      "Price": 250000,
+      "Stock": 20,
+      "CategoryId": 1,
+      "id": 3
+    },
+    {
+      "Product": {
+        "NameAr": "انتل اي فايف جيل حداشر اف",
+        "NameEn": "Intel Core I5 11400F"
+      },
+      "Description": {
+        "DescriptionAr": "افضل المعالجات من انتل للتصميم والجرفيك",
+        "DescriptionEn": "The Best Processor To Graphic"
+      },
+      "Quantity": 0,
+      "Photo": "https://m.media-amazon.com/images/I/71TxeMiYJSL.jpg",
+      "Price": 3500,
+      "Stock": 20,
+      "CategoryId": 2,
+      "id": 4
+    },
+    {
+      "Product": {
+        "NameAr": "رايزن اربعه الاف ستمائه وخمسين جي برو",
+        "NameEn": "Ryzen 5 4650G Pro"
+      },
+      "Description": {
+        "DescriptionAr": "افضل معالج للالعاب ومزود بكارت داخلي",
+        "DescriptionEn": "The Best Processor To Gaming With Built in video card"
+      },
+      "Quantity": 1,
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvTiMhWdBZLy8Wb5O7f0NebVwZ3BeHZVnVQ&usqp=CAU",
+      "Price": 4400,
+      "Stock": 30,
+      "CategoryId": 3,
+      "id": 5
+    },
+    {
+      "Product": {
+        "NameAr": "كيس ادرسابل ار جي بي من ام اس اي",
+        "NameEn": "MSI MAG VAMPIRIC 100R ARGB Gaming"
+      },
+      "Description": {
+        "DescriptionAr": "الكيس من براند ام اس اي ونوعها ميد تور",
+        "DescriptionEn": "From Brand Msi And Case Type Is Mid Tower"
+      },
+      "Quantity": 1,
+      "Photo": "https://kimostore.net/cdn/shop/files/MSIMAGVAMPIRIC100RARGBGamingMid-TowerCase_1.jpg?v=1682429283&width=600",
+      "Price": 3500,
+      "Stock": 40,
+      "CategoryId": 4,
+      "id": 6
+    },
+    {
+      "Product": {
+        "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+        "NameEn": "RGB optical cobra gaming mouse"
+      },
+      "Description": {
+        "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+        "DescriptionEn": "From Brand Redragon And directed to gamers"
+      },
+      "Quantity": 0,
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+      "Price": 950,
+      "Stock": 20,
+      "CategoryId": 5,
+      "id": 7
+    },
+    {
+      "Product": {
+        "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+        "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+      },
+      "Description": {
+        "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+        "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+      },
+      "Quantity": 0,
+      "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+      "Price": 350,
+      "Stock": 20,
+      "CategoryId": 5,
+      "id": 8
+    },
+    {
+      "Product": {
+        "NameAr": "رازر ماوس هايبر اكس سبييد",
+        "NameEn": "Razer Razer Basilisk X HyperSpeed"
+      },
+      "Description": {
+        "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+        "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+      },
+      "Quantity": 0,
+      "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+      "Price": 600,
+      "Stock": 35,
+      "CategoryId": 5,
+      "id": 9
+    },
+    {
+      "Product": {
+        "NameAr": "ماوس رازر اثيرس لاسلكي",
+        "NameEn": "Razer Razer Atheris Wireless Mouse"
+      },
+      "Description": {
+        "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+        "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+      },
+      "Quantity": 0,
+      "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+      "Price": 450,
+      "Stock": 350,
+      "CategoryId": 5,
+      "id": 10
+    },
+    {
+      "Product": {
+        "NameAr": "جراب إصدار من الزجاج المقوى من ثرمالتاكي V200",
+        "NameEn": "Thermaltake V200 Tempered Glass Edition Case"
+      },
+      "Description": {
+        "DescriptionAr": "تأتي علبة V200 TG Mid-Tower مع لوحة زجاجية واحدة على اليسار ، ومروحة قياسية 120 مم مثبتة مسبقًا في الخلف وتدعم اللوحات الأم حتى ATX.",
+        "DescriptionEn": "V200 TG Mid-Tower case comes with one tempered glass panel on the left, one preinstalled 120mm standard fan at the rear and supports motherboards up to ATX."
+      },
+      "Quantity": 0,
+      "Photo": "https://www.elnekhelytechnology.com/image/cache/catalog/Case/Thermaltake/Thermaltake%20V200%20Tempered%20Glass%20Edition%20Mid%20Tower%20Case%20+%20Thermaltake%20500W%20Active%20PFC%20PSU%20213-1000x1000.png",
+      "Price": 2100,
+      "Stock": 35,
+      "CategoryId": 4,
+      "id": 11
+    },
+    {
+      "Product": {
+        "NameAr": "كيس كولر ماستر  هاف 500 ميد تاور اسود",
+        "NameEn": "COOLER MASTER HAF 500 Mid Tower Case BLACKONLY BUILD)"
+      },
+      "Description": {
+        "DescriptionAr": "صُممت HAF 500 لتدفق هواء عالي وأداء فائق ، وتتميز بمراوح ARGB بسعة 200 مم ، مما يضمن مدخولًا وتبريدًا لا مثيل لهما.",
+        "DescriptionEn": "Built for high airflow and peak performance, the HAF 500 boasts iconic 200mm large intake ARGB fans, ensuring unparalleled intake and cooling e"
+      },
+      "Quantity": 0,
+      "Photo": "https://www.elnekhelytechnology.com/image/cache/catalog/Case/Cooler%20Master/NEW/cooler-master-haf-500-mid-tower-case-blackonly-build-1000x1000.png",
+      "Price": 2400,
+      "Stock": 50,
+      "CategoryId": 4,
+      "id": 12
+    },
+    {
+      "Product": {
+        "NameAr": "كيس اتش 250 اكس مقدم من شركه ابك اون كور من الزجاج المقوي",
+        "NameEn": "ABKONCORE-H250X Premium Tempered Glass Mid Tower Mesh Front"
+      },
+      "Description": {
+        "DescriptionAr": "كيس واسعه من الداخل وتتيح لك تركيب العديد من المراوح وتركيب اكبر البورد",
+        "DescriptionEn": "The Case is spacious from the inside and allows you to install many fans and install the largest MotherBoards"
+      },
+      "Quantity": 0,
+      "Photo": "https://www.elnekhelytechnology.com/image/cache/catalog/Case/AbkonCore/H250X/abkoncore-h250x-premium-tempered-glass-mid-tower-mesh-front-700w-80-plus-1000x1000.jpg",
+      "Price": 3500,
+      "Stock": 10,
+      "CategoryId": 4,
+      "id": 13
+    },
+    {
+      "Product": {
+        "NameAr": "رايزن الجيل الخامس 3600",
+        "NameEn": "Ryzen 5 3600"
+      },
+      "Description": {
+        "DescriptionEn": "The processor comes with six cores and twelve threads and also has a single core system",
+        "DescriptionAr": "المعالج يأتي ب ست انويه و اثنا عشر مسار ايضا يتمتع بنظام الكور الفردي"
+      },
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvf0U0TaAY6sW02BonBxf0MnqttyTHbbIY6Q&usqp=CAU",
+      "Price": 4400,
+      "Stock": 20,
+      "CategoryId": 3,
+      "id": 14
+    },
+    {
+      "Product": {
+        "NameAr": "رايزن 2400 جي",
+        "NameEn": "Ryzen 2400F"
+      },
+      "Description": {
+        "DescriptionEn": "The Best Processor in the middle class",
+        "DescriptionAr": "افضل معالجات تحت فئه ال 3000 الاف جنيه"
+      },
+      "userId": 2,
+      "Quantity": 0,
+      "Photo": "https://www.sigma-computer.com/image/products/162003078801.webp",
+      "Price": 2500,
+      "Stock": 250,
+      "CategoryId": 3,
+      "id": 15
+    },
+    {
+      "Product": {
+        "NameAr": "كولكشن من تيكنو زون",
+        "NameEn": "Collection From Technozone"
+      },
+      "Description": {
+        "DescriptionAr": "افضل كلوكشن لعشاق العاب الباتل رويال والكوره",
+        "DescriptionEn": "The Best Collection to Games lovers"
+      },
+      "Quantity": 0,
+      "Offer": true,
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8hz3uh7ADg_O51Shu27NxomPtKXeeyy6pw&usqp=CAU",
+      "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjMJ6EQg_IxIqYA3vSkBT69gkKAgvhLJN5g&usqp=CAU",
+      "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdzHblDSFIeXcF5gtBwqb0zLWTGzxBhnFpQ&usqp=CAU",
+      "Discount": 350,
+      "Price": 900,
+      "Stock": 50,
+      "CategoryId": 5,
+      "id": 16
+    },
+    {
+      "Product": {
+        "NameAr": "كيس ديب كول + باور من شركه ايفجا ثمانين بلس",
+        "NameEn": "Case DeepCool Plus Power Evga 80Plus"
+      },
+      "Description": {
+        "DescriptionAr": "افضل كيس من ديب كول ويميز بمساحته الداخليه",
+        "DescriptionEn": "The Best Case And Contain A large Space + The power is 650W"
+      },
+      "Quantity": 0,
+      "Offer": true,
+      "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2N6qaZdU44JCKzwspU8nKPxkoeEsBWKOQ&usqp=CAU",
+      "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZfd6M_ZXOWkDAkUTFJcCJJ4V_8fgHBUEBw&usqp=CAU",
+      "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHbTBmzvEGhQTAM0c0VExukPlP8agKqRzOQ&usqp=CAU",
+      "Discount": 500,
+      "Price": 5000,
+      "Stock": 30,
+      "CategoryId": 4,
+      "id": 17
+    },
+    {
+      "Product": {
+        "NameAr": "الاسم بالعربي",
+        "NameEn": "Name En"
+      },
+      "Description": {
+        "DescriptionAr": "الوصف بالعربي الوصف بالعربي",
+        "DescriptionEn": "info En info En info En info En"
+      },
+      "Quantity": 0,
+      "Photo": "https://images.anandtech.com/doci/12050/evga%201660ti%20xc%20b_678x452.png",
+      "Price": 3500,
+      "Stock": 45,
+      "CategoryId": 1,
+      "id": 18
+    },
+    {
+      "Product": {
+        "NameAr": "سماعة A3991H11 ايربودز لايف P2i لاسلكية",
+        "NameEn": "A3991H11 AirPods Live P2i Wireless Headphone"
+      },
+      "Description": {
+        "DescriptionAr": "تحدث مع الآخرين ودعهم يسمعونك: ايربودز لايف P2i لاسلكية بتقنية ترو تقلل الضوضاء عبر خوارزمية الذكاء الاصطناعي المخصصة، بينما يقوم الميكروفونين بالتقاط صوتك بوضوح.",
+        "DescriptionEn": "TALK TO OTHERS AND LET THEM HEAR YOU: True Wireless AirPods P2i reduce noise via a custom AI algorithm, while two microphones clearly pick up your voice."
+      },
+      "Quantity": 0,
+      "Photo": "https://m.media-amazon.com/images/I/51GvEUyJ6LL._AC_SY606_.jpg",
+      "Price": 250,
+      "Stock": 10,
+      "CategoryId": 6,
+      "id": 19
+    }
+  ],
+  "SettingSite": [
+    {
+      "SiteName": {
+        "NameAr": "امازون المانيا",
+        "NameEn": "Amazon Germany"
+      },
+      "Description": {
+        "DescriptionAr": "الموقع خاص بالتجاره الالكترونيه",
+        "DescriptionEn": "The site is for e-commerce"
+      },
+      "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjfH5ZEAnfm2zufUDfd3SWciPuyN2jiK5EA&usqp=CAU",
+      "Logo": "https://w7.pngwing.com/pngs/621/196/png-transparent-e-commerce-logo-logo-e-commerce-electronic-business-ecommerce-angle-text-service.png",
+      "AltText": "The site is for e-commerce\n",
+      "Status": "Open",
+      "id": 1
+    }
+  ],
+  "pages": [
+    {
+      "PageContent": {
+        "ContentAr": "<h3 class=\"ql-align-right\"><strong>سوق جملة أول منصة تجارة الكترونية عربية 100% تضع آلاف المنتجات بين يديك في خطوة واحدة. من خلال سوق إلكتروني مفتوح يقوم سوق جملة بعرض منتجاته التى لا حصر لها بسعر الجملة للعملاء من اول قطعة ونحن نقدم افضل الخدمات ما بعد البيع وايضا يمكن لاي احد تقديم طلب لعرض منتجاته علي الموقع وايضا نتميز بالعموله البسيطه وايضا بتميز موقهنا بسهوله في التحكم وايضا باللغه الانجيليزبه والعربيه وايضا يوجد وضع الدارك واللايت مود وايضا موقعنا يتميز بالسرعه والامان العالي وايضا الموقع يحتوي علي طرق دفع مثل  البايبال و الدفع عند الاستلام</strong></h3><p><br></p>",
+        "ContentEn": "<h3><strong>The first 100% Arab e-commerce platform puts thousands of products in your hands in one step. Through an open online marketplace, wholesale market displays its countless products at wholesale price to customers from the first piece. We offer the best after-sales services. Anyone can apply to view their products on the site. We also have simple usage. Our website is also easy to control and also in English and Arabic .</strong></h3>"
+      },
+      "PageName": {
+        "PageNameAr": "من نحن",
+        "PageNameEn": "About Us"
+      },
+      "id": 1
+    },
+    {
+      "PageContent": {
+        "ContentAr": "<h3 class=\"ql-align-right\"><strong>تلتزم إي أف بحماية خصوصية عملائنا. وتنطبق سياسة حماية الخصوصية المعتمدة من قبل إي أف (\"سياسة حماية الخصوصية\") على كل المعلومات الشخصية التي يتم جمعها من قبلنا أو تقديمها لنا، إن دون الاتصال بالإنترنت (offline) أو بالاتصال بالإنترنت (online)، بما في ذلك المعلومات الشخصية التي يتم جمعها أو تقديمها من خلال مواقعنا الإلكترونية (\"مواقعنا الإلكترونية\") وعلى أي مواقع على الهواتف الجوالة والتطبيقات الصغيرة وغيرها من الميزات التفاعلية للجوّال (والمشار إليها مجتمعةً بـ\"تطبيقاتنا\")، من خلال صفحاتنا الرسمية على وسائل التواصل الاجتماعي التي نتحكم بها (\"صفحاتنا على وسائل التواصل الاجتماعي\")، ومن خلال رسائل HTML التي نرسلها إليكم (والمشار إليها مجتمعةً، بما في ذلك الصفحات على وسائل التواصل الاجتماعي والتطبيقات والمواقع الإلكترونية، بـ\"المواقع\"). ومن خلال تقديمكم المعلومات الشخصية لنا، توافقون على أحكام وشروط هذه السياسة.</strong></h3><p><br></p><p><br></p>",
+        "ContentEn": "<h3><strong>EF is committed to protecting our customers' privacy. EF's Privacy Protection Policy applies (\"Privacy Protection Policy\") on all personal information collected by us or provided to us, if not connected to the Internet (offline) or online, including personal information collected or provided through our websites (\"Our websites\"), any locations on mobile phones, small apps and other interactive mobile features (collectively referred to as \"our apps\"), through our official social media pages that we control (\"Our social media pages\"), and through the HTML messages we send you (collectively referred to, including social media pages, apps and websites, as \"sites\"). By providing us with personal information, you agree to the terms and conditions of this policy .</strong></h3>"
+      },
+      "PageName": {
+        "PageNameAr": "سياسه الخصوصيه",
+        "PageNameEn": "Privacy Policy"
+      },
+      "id": 2
+    },
+    {
+      "PageContent": {
+        "ContentAr": "<p class=\"ql-align-center\"><strong style=\"color: rgb(0, 138, 0);\">محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه محتوي الصفحه باللغه العربيه </strong></p>",
+        "ContentEn": "<p class=\"ql-align-center\"><strong style=\"color: rgb(230, 0, 0);\"> The English ContentThe English ContentThe English ContentThe English ContentThe English ContentThe English ContentThe English ContentThe English ContentThe English ContentThe English Content</strong></p>"
+      },
+      "PageName": {
+        "PageNameAr": "اخر الاخبار",
+        "PageNameEn": "The End News"
+      },
+      "id": 3
+    }
+  ],
+  "Ordres": [
+    {
+      "UserId": 1,
+      "UserAddress": "المنزله شارع ارض صقر",
+      "Status": "Complete",
+      "Total": 1438,
+      "TrackingNumber": "GKOHO1692347453956",
+      "PhoneNumber": "01274291043",
+      "DateArriveAr": "الاثنين 21 اغسطس 2023 ",
+      "DateArriveEn": "Monday 21 August 2023 ",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس رازر اثيرس لاسلكي",
+            "NameEn": "Razer Razer Atheris Wireless Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+            "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+          "Price": 450,
+          "Stock": 350,
+          "CategoryId": 5,
+          "id": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "UserId": 1,
+      "UserAddress": "المنزله شارع ارض صقر",
+      "Status": "Complete",
+      "Total": 12536,
+      "TrackingNumber": "AOBGG1692347826069",
+      "PhoneNumber": "01274291043",
+      "DateArriveAr": "الاثنين 21 اغسطس 2023 ",
+      "DateArriveEn": "Monday 21 August 2023 ",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+            "NameEn": "RGB optical cobra gaming mouse"
+          },
+          "Description": {
+            "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+            "DescriptionEn": "From Brand Redragon And directed to gamers"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+          "Price": 950,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 7
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس رازر اثيرس لاسلكي",
+            "NameEn": "Razer Razer Atheris Wireless Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+            "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+          "Price": 450,
+          "Stock": 350,
+          "CategoryId": 5,
+          "id": 10
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ادرسابل ار جي بي من ام اس اي",
+            "NameEn": "MSI MAG VAMPIRIC 100R ARGB Gaming"
+          },
+          "Description": {
+            "DescriptionAr": "الكيس من براند ام اس اي ونوعها ميد تور",
+            "DescriptionEn": "From Brand Msi And Case Type Is Mid Tower"
+          },
+          "Quantity": 3,
+          "Photo": "https://kimostore.net/cdn/shop/files/MSIMAGVAMPIRIC100RARGBGamingMid-TowerCase_1.jpg?v=1682429283&width=600",
+          "Price": 3500,
+          "Stock": 40,
+          "CategoryId": 4,
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "UserId": 2,
+      "UserAddress": "المنزله دقهليه ",
+      "Status": "Complete",
+      "Total": 7338,
+      "TrackingNumber": "ULBLH1693066625215",
+      "PhoneNumber": "01285362718",
+      "DateArriveAr": "السبت 26 اغسطس 2023",
+      "DateArriveEn": "Saturday 26 August 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "كولكشن من تيكنو زون",
+            "NameEn": "Collection From Technozone"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كلوكشن لعشاق العاب الباتل رويال والكوره",
+            "DescriptionEn": "The Best Collection to Games lovers"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8hz3uh7ADg_O51Shu27NxomPtKXeeyy6pw&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjMJ6EQg_IxIqYA3vSkBT69gkKAgvhLJN5g&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdzHblDSFIeXcF5gtBwqb0zLWTGzxBhnFpQ&usqp=CAU",
+          "Discount": 350,
+          "Price": 900,
+          "Stock": 50,
+          "CategoryId": 5,
+          "id": 1
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ديب كول + باور من شركه ايفجا ثمانين بلس",
+            "NameEn": "Case DeepCool Plus Power Evga 80Plus"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كيس من ديب كول ويميز بمساحته الداخليه",
+            "DescriptionEn": "The Best Case And Contain A large Space + The power is 650W"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2N6qaZdU44JCKzwspU8nKPxkoeEsBWKOQ&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZfd6M_ZXOWkDAkUTFJcCJJ4V_8fgHBUEBw&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHbTBmzvEGhQTAM0c0VExukPlP8agKqRzOQ&usqp=CAU",
+          "Discount": 500,
+          "Price": 5000,
+          "Stock": 30,
+          "CategoryId": 4,
+          "id": 3
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس رازر اثيرس لاسلكي",
+            "NameEn": "Razer Razer Atheris Wireless Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+            "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+          "Price": 450,
+          "Stock": 350,
+          "CategoryId": 5,
+          "id": 10
+        }
+      ],
+      "id": 3
+    },
+    {
+      "UserId": 2,
+      "UserAddress": "المنزله دقهليه ",
+      "Status": "Complete",
+      "Total": 16788,
+      "TrackingNumber": "FCKET1693070423936",
+      "PhoneNumber": "01285362718",
+      "DateArriveAr": "الثلاثاء 29 اغسطس 2023",
+      "DateArriveEn": "Tuesday 29 August 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+            "NameEn": "RGB optical cobra gaming mouse"
+          },
+          "Description": {
+            "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+            "DescriptionEn": "From Brand Redragon And directed to gamers"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+          "Price": 950,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 7
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ادرسابل ار جي بي من ام اس اي",
+            "NameEn": "MSI MAG VAMPIRIC 100R ARGB Gaming"
+          },
+          "Description": {
+            "DescriptionAr": "الكيس من براند ام اس اي ونوعها ميد تور",
+            "DescriptionEn": "From Brand Msi And Case Type Is Mid Tower"
+          },
+          "Quantity": 2,
+          "Photo": "https://kimostore.net/cdn/shop/files/MSIMAGVAMPIRIC100RARGBGamingMid-TowerCase_1.jpg?v=1682429283&width=600",
+          "Price": 3500,
+          "Stock": 40,
+          "CategoryId": 4,
+          "id": 6
+        },
+        {
+          "Product": {
+            "NameAr": "رايزن اربعه الاف ستمائه وخمسين جي برو",
+            "NameEn": "Ryzen 5 4650G Pro"
+          },
+          "Description": {
+            "DescriptionAr": "افضل معالج للالعاب ومزود بكارت داخلي",
+            "DescriptionEn": "The Best Processor To Gaming With Built in video card"
+          },
+          "Quantity": 2,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvTiMhWdBZLy8Wb5O7f0NebVwZ3BeHZVnVQ&usqp=CAU",
+          "Price": 4400,
+          "Stock": 30,
+          "CategoryId": 3,
+          "id": 5
+        }
+      ],
+      "id": 4
+    },
+    {
+      "UserId": 2,
+      "UserAddress": "المنزله دقهليه ",
+      "Status": "Shipping",
+      "Total": 2388,
+      "TrackingNumber": "LZCOQ1694108788673",
+      "PhoneNumber": "01285362718",
+      "DateArriveAr": "الاحد 10 سبتمبر 2023",
+      "DateArriveEn": "Sunday 10 September 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+            "NameEn": "RGB optical cobra gaming mouse"
+          },
+          "Description": {
+            "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+            "DescriptionEn": "From Brand Redragon And directed to gamers"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+          "Price": 950,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 7
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس رازر اثيرس لاسلكي",
+            "NameEn": "Razer Razer Atheris Wireless Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+            "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+          "Price": 450,
+          "Stock": 350,
+          "CategoryId": 5,
+          "id": 10
+        }
+      ],
+      "id": 5
+    },
+    {
+      "UserId": 2,
+      "UserAddress": "المنزله دقهليه ",
+      "Status": "Pending",
+      "Total": 6038,
+      "TrackingNumber": "MBGNA1694263404310",
+      "PhoneNumber": "",
+      "DateArriveAr": "الثلاثاء 12 سبتمبر 2023",
+      "DateArriveEn": "Tuesday 12 September 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ديب كول + باور من شركه ايفجا ثمانين بلس",
+            "NameEn": "Case DeepCool Plus Power Evga 80Plus"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كيس من ديب كول ويميز بمساحته الداخليه",
+            "DescriptionEn": "The Best Case And Contain A large Space + The power is 650W"
+          },
+          "Quantity": 1,
+          "Offer": true,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2N6qaZdU44JCKzwspU8nKPxkoeEsBWKOQ&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZfd6M_ZXOWkDAkUTFJcCJJ4V_8fgHBUEBw&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHbTBmzvEGhQTAM0c0VExukPlP8agKqRzOQ&usqp=CAU",
+          "Discount": 500,
+          "Price": 5000,
+          "Stock": 30,
+          "CategoryId": 4,
+          "id": 17
+        },
+        {
+          "Product": {
+            "NameAr": "كولكشن من تيكنو زون",
+            "NameEn": "Collection From Technozone"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كلوكشن لعشاق العاب الباتل رويال والكوره",
+            "DescriptionEn": "The Best Collection to Games lovers"
+          },
+          "Quantity": 1,
+          "Offer": true,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8hz3uh7ADg_O51Shu27NxomPtKXeeyy6pw&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjMJ6EQg_IxIqYA3vSkBT69gkKAgvhLJN5g&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdzHblDSFIeXcF5gtBwqb0zLWTGzxBhnFpQ&usqp=CAU",
+          "Discount": 350,
+          "Price": 900,
+          "Stock": 50,
+          "CategoryId": 5,
+          "id": 16
+        }
+      ],
+      "id": 6
+    },
+    {
+      "UserId": 1,
+      "UserAddress": "المنزله شارع ارض صقر",
+      "Status": "Processing",
+      "Total": 8838,
+      "TrackingNumber": "HNDTC1694277690099",
+      "PhoneNumber": "01274291043",
+      "DateArriveAr": "الثلاثاء 12 سبتمبر 2023",
+      "DateArriveEn": "Tuesday 12 September 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+            "NameEn": "RGB optical cobra gaming mouse"
+          },
+          "Description": {
+            "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+            "DescriptionEn": "From Brand Redragon And directed to gamers"
+          },
+          "Quantity": 2,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+          "Price": 950,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 7
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 2,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 2,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ديب كول + باور من شركه ايفجا ثمانين بلس",
+            "NameEn": "Case DeepCool Plus Power Evga 80Plus"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كيس من ديب كول ويميز بمساحته الداخليه",
+            "DescriptionEn": "The Best Case And Contain A large Space + The power is 650W"
+          },
+          "Quantity": 1,
+          "Offer": true,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2N6qaZdU44JCKzwspU8nKPxkoeEsBWKOQ&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZfd6M_ZXOWkDAkUTFJcCJJ4V_8fgHBUEBw&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHbTBmzvEGhQTAM0c0VExukPlP8agKqRzOQ&usqp=CAU",
+          "Discount": 500,
+          "Price": 5000,
+          "Stock": 30,
+          "CategoryId": 4,
+          "id": 17
+        }
+      ],
+      "id": 7
+    },
+    {
+      "UserId": 1,
+      "UserAddress": "المنزله شارع ارض صقر",
+      "Status": "Pending",
+      "Total": 10888,
+      "TrackingNumber": "NDOUU1694284056696",
+      "PhoneNumber": "01274291043",
+      "DateArriveAr": "الثلاثاء 12 سبتمبر 2023",
+      "DateArriveEn": "Tuesday 12 September 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "ماوس العاب كوبرا بصري بخاصية الار جي بي",
+            "NameEn": "RGB optical cobra gaming mouse"
+          },
+          "Description": {
+            "DescriptionAr": "من براند ريد راجون وموجه للجيمرز",
+            "DescriptionEn": "From Brand Redragon And directed to gamers"
+          },
+          "Quantity": 1,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpG1xXWkySlCTBqYbvGIStO4W7Y5_RtYBRA&usqp=CAU",
+          "Price": 950,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 7
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس من رازر فايبر بسلك خاص للجيمنج",
+            "NameEn": "Razer Razer Viper Wired Gaming Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "تم تصميم Razer Viper بأداء موثوق به واستجابة عالية",
+            "DescriptionEn": "The Razer Viper is designed with reliable performance and high"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/514691/1.jpg?4554",
+          "Price": 350,
+          "Stock": 20,
+          "CategoryId": 5,
+          "id": 8
+        },
+        {
+          "Product": {
+            "NameAr": "ماوس رازر اثيرس لاسلكي",
+            "NameEn": "Razer Razer Atheris Wireless Mouse"
+          },
+          "Description": {
+            "DescriptionAr": "اعتماد جهاز استشعار ضوئي 7200 ديسيبل متوحد الخواص لتلبية احتياجات العمل والألعاب في بيئات متعددة.",
+            "DescriptionEn": "Adopt 7200DPI optical sensor to meet the needs of working and gaming in multiple environments."
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/11/519313/1.jpg?5979",
+          "Price": 450,
+          "Stock": 350,
+          "CategoryId": 5,
+          "id": 10
+        },
+        {
+          "Product": {
+            "NameAr": "كيس اتش 250 اكس مقدم من شركه ابك اون كور من الزجاج المقوي",
+            "NameEn": "ABKONCORE-H250X Premium Tempered Glass Mid Tower Mesh Front"
+          },
+          "Description": {
+            "DescriptionAr": "كيس واسعه من الداخل وتتيح لك تركيب العديد من المراوح وتركيب اكبر البورد",
+            "DescriptionEn": "The Case is spacious from the inside and allows you to install many fans and install the largest MotherBoards"
+          },
+          "Quantity": 1,
+          "Photo": "https://www.elnekhelytechnology.com/image/cache/catalog/Case/AbkonCore/H250X/abkoncore-h250x-premium-tempered-glass-mid-tower-mesh-front-700w-80-plus-1000x1000.jpg",
+          "Price": 3500,
+          "Stock": 10,
+          "CategoryId": 4,
+          "id": 13
+        },
+        {
+          "Product": {
+            "NameAr": "كيس ديب كول + باور من شركه ايفجا ثمانين بلس",
+            "NameEn": "Case DeepCool Plus Power Evga 80Plus"
+          },
+          "Description": {
+            "DescriptionAr": "افضل كيس من ديب كول ويميز بمساحته الداخليه",
+            "DescriptionEn": "The Best Case And Contain A large Space + The power is 650W"
+          },
+          "Quantity": 1,
+          "Offer": true,
+          "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2N6qaZdU44JCKzwspU8nKPxkoeEsBWKOQ&usqp=CAU",
+          "PhotoTwo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZfd6M_ZXOWkDAkUTFJcCJJ4V_8fgHBUEBw&usqp=CAU",
+          "PhotoThree": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHbTBmzvEGhQTAM0c0VExukPlP8agKqRzOQ&usqp=CAU",
+          "Discount": 500,
+          "Price": 5000,
+          "Stock": 30,
+          "CategoryId": 4,
+          "id": 17
+        },
+        {
+          "Product": {
+            "NameAr": "رازر ماوس هايبر اكس سبييد",
+            "NameEn": "Razer Razer Basilisk X HyperSpeed"
+          },
+          "Description": {
+            "DescriptionEn": "When in BT mode, the mouse is good for up to 450 hours. For gaming",
+            "DescriptionAr": "عندما تكون في وضع BT ، يكون الماوس جيدًا لمدة تصل إلى 450 ساعة"
+          },
+          "Quantity": 1,
+          "Photo": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/730793/1.jpg?1071",
+          "Price": 600,
+          "Stock": 35,
+          "CategoryId": 5,
+          "id": 9
+        }
+      ],
+      "id": 8
+    },
+    {
+      "UserId": 1,
+      "UserAddress": "المنزله شارع ارض صقر",
+      "Status": "Pending",
+      "Total": 288,
+      "TrackingNumber": "SCQDC1694290046773",
+      "PhoneNumber": "01274291043",
+      "DateArriveAr": "الثلاثاء 12 سبتمبر 2023",
+      "DateArriveEn": "Tuesday 12 September 2023",
+      "Orders": [
+        {
+          "Product": {
+            "NameAr": "سماعة A3991H11 ايربودز لايف P2i لاسلكية",
+            "NameEn": "A3991H11 AirPods Live P2i Wireless Headphone"
+          },
+          "Description": {
+            "DescriptionAr": "تحدث مع الآخرين ودعهم يسمعونك: ايربودز لايف P2i لاسلكية بتقنية ترو تقلل الضوضاء عبر خوارزمية الذكاء الاصطناعي المخصصة، بينما يقوم الميكروفونين بالتقاط صوتك بوضوح.",
+            "DescriptionEn": "TALK TO OTHERS AND LET THEM HEAR YOU: True Wireless AirPods P2i reduce noise via a custom AI algorithm, while two microphones clearly pick up your voice."
+          },
+          "Quantity": 1,
+          "Photo": "https://m.media-amazon.com/images/I/51GvEUyJ6LL._AC_SY606_.jpg",
+          "Price": 250,
+          "Stock": 10,
+          "CategoryId": 6,
+          "id": 19
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "Messages": [
+    {
+      "Name": "Eslam Haraz",
+      "Email": "islamharaz@yahoo.com",
+      "messageAddress": "The design of the site And Responsive\n",
+      "messageContent": "The design of the site is very cool and compatible with all screens. It is also distinguished in the dark mode, and there is also consistency in colors\n",
+      "id": 1
+    },
+    {
+      "Name": "Eslam Haraz",
+      "Email": "islamharaz64@gmail.com",
+      "messageAddress": "sadlhtfgjsdahgkjsdahdjskahdkjsada",
+      "messageContent": "aksdfhsalfhajsfhkjsafhjsahfkjsafhkjaflkasfjsajflksafjksafjsafhjasfghjasflkasjflkasjflksa",
+      "id": 2
+    },
+    {
+      "Name": "Eslam Haraz",
+      "Email": "eslamharaz64@gmail.com",
+      "messageAddress": "asgaaskisajdlksaklasjdlkaslkdjsalkd",
+      "messageContent": "afgjaskfj;salkasfglsafhkjsalkkjml;sadafasfasfagadfgagasdfasfsagdsagsdafgasfdsafsafas",
+      "id": 3
+    }
+  ],
+  "BlockMessages": [
+    {
+      "adminId": 1,
+      "userId": 3,
+      "blockReason": "لقد تم حظرك لسبب امني ومخالفه سياسه الخصوصيه الخاصه بالموقع",
+      "id": 3
+    },
+    {
+      "adminId": 1,
+      "userId": 3,
+      "blockReason": "سشينتسشاينتسشتينمسشيكشستبلسلتمنسشيتمنسشتيمنسشيتسشيمنسشيتمنسشيسشلشسل",
+      "id": 4
+    }
+  ]
+}

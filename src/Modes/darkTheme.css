@@ -1,0 +1,70 @@
+:root {
+  /* Dark-Mode */
+  --body-Color: #2a3447;
+  --main-Color: #303f5d;
+  --authintaction-Color: #5e88ff;
+  --secondary-Color: #ff793f;
+  --bg-warning-Color: #4d3a2a;
+  --bg-danger-Color: #4b313d;
+  --bg-success-Color: #1b3c48;
+  --bg-primary-Color: #1e2b4e;
+  --primary-Color: #5d87ff;
+  --success-Color: #13deb9;
+  --warning-Color: #ffae1f;
+  --danger-Color: #fa9075;
+  --text-Color: #eaeff4;
+  --badge-text-Color: #ffff;
+  --hover-bg-Color: #ef8c61;
+  --hover-link-Color: #b2bbcd42;
+  --hover-font-Color: #303f5dde;
+  --border-Color: #747e93;
+  --icon-Color: #4a6ccc;
+  --bg-login-Color: #eef3fd;
+  --toggle-Color: #e7e7e7;
+  --modal-text-Color: #2a3547;
+  --main-transition: 0.4s linear;
+  --section-bg-Color: #303f5d;
+  --link-active-bg: #303f5d;
+  --menu-bg-Color: #303f5d;
+  --btn-disabled-bg: rgb(33 43 65);
+}
+.small-img {
+  width: 60px;
+}
+.font-Weight-medium {
+  font-weight: 600;
+}
+.text-color {
+  color: var(--text-Color);
+}
+li.active {
+  background-color: var(--body-Color);
+}
+li.active .toggle {
+  color: white;
+}
+.table > :not(caption) > * > * button.btn-edit {
+  background-color: var(--bs-dark);
+  color: var(--primary-Color);
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: none;
+}
+.modal-text-color {
+  color: var(--modal-text-Color);
+}
+.modal-content {
+  background-color: var(--main-Color);
+  color: var(--text-Color);
+}
+.ql-toolbar.ql-snow {
+  background-color: white;
+}
+.ql-editor {
+  color: white;
+}
+button:disabled {
+  background-color: #6c757dab !important;
+  color: #c5c3c3 !important;
+}
