@@ -4,9 +4,6 @@ through this system, you can perform modifications, additions, or deletions to a
 Additionally, the website supports two languages, Arabic and English. It also includes two themes, Dark Mode and Light Mode.
 I have used the following technologies: Vue.js - HTML5 - CSS3 - Vuex - Vuelidate for validations - Json Server.
 
-
-# Sports-Site-Vue
-
 ## Project setup
 ```
 npm install
